@@ -1,0 +1,8 @@
+http://colorado2013.drupalcamp.org -w -O . -%v -s0 -c1 -%e0
+File generated automatically on Fri, 09 Jun 2017 22:48:39, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
